@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0283-move-zeroes) |
@@ -14,6 +15,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0283-move-zeroes) |
@@ -30,4 +32,16 @@
 | ------- |
 | [0015-3sum](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Pravallika-Kudirilla/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
